@@ -1,15 +1,16 @@
 # ShoppingCart
-This is a simple shopping cart system implemented in Python. It allows adding products (such as phones and TVs) to a cart and calculates the total value of the cart.
+This project is a simple and interactive shopping cart system built in Python. It allows users to:
+✔ Add products by entering their name and price
+✔ Remove products from the cart
+✔ View the cart contents and total value
+✔ Interact via a terminal-based menu
 
-# Features
-- Add products to the cart
-- Calculate total cart value
-- Display cart contents
+🚀 Features
+Dynamic product management without predefined product lists
+Automatic cart value calculation
+Object-oriented design for flexibility
+Intuitive text-based interface
 
-# Project Structure
-cart_project/
-│── cart/
-│   ├── cart.py        # Shopping cart logic
-│   ├── products.py    # Product classes
-│   ├── main.py        # Example usage of the cart
-
+🔧 How to Run
+Clone the repository
+Run the main.py file
