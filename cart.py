@@ -16,7 +16,7 @@ class Product:
 
 class Cart:
     def __init__(self):
-        self.__products_list = {}  # Przechowuje produkty i ich ilość
+        self.__products_list = {}  
         self.__cart_value = 0
 
     def add_to_cart(self, product):
