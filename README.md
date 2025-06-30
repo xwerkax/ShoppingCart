@@ -6,10 +6,10 @@ This project is a simple and interactive shopping cart system built in Python. I
 ✔ Interact via a terminal-based menu
 
 🚀 Features
-Dynamic product management without predefined product lists
-Automatic cart value calculation
-Object-oriented design for flexibility
-Intuitive text-based interface
+- Dynamic product management without predefined product lists
+- Automatic cart value calculation
+- Object-oriented design for flexibility
+- Intuitive text-based interface
 
 🔧 How to Run
 Clone the repository
