@@ -12,5 +12,5 @@ This project is a simple and interactive shopping cart system built in Python. I
 - Intuitive text-based interface
 
 🔧 How to Run
-Clone the repository
-Run the main.py file
+- Clone the repository
+- Run the main.py file
